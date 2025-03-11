@@ -1,0 +1,22 @@
+.header {
+    color: darkred;
+    
+}
+
+.recipe-list {
+
+    color: gray;
+}
+
+.home-header {
+    color: lightblue;
+}
+
+.mainbackground {
+    background-color: lightseagreen;
+}
+
+p, ol, ul {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
