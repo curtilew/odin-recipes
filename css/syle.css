@@ -6,17 +6,37 @@
 .recipe-list {
 
     color: gray;
+    font-size: 35px;
+    list-style-type: none;
 }
 
 .home-header {
-    color: lightblue;
+    color: white;
+    font-size: 100px;
 }
 
 .mainbackground {
     background-color: lightseagreen;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    
 }
 
 p, ol, ul {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+
+li {
+    margin: 32px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    text-align: left;
+}
+
